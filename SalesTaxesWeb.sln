@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxesWeb", "SalesTaxesWeb\SalesTaxesWeb.csproj", "{B4B04C6D-32A9-4BBB-BC7A-A34C57591CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesTaxesWeb", "SalesTaxesWeb\SalesTaxesWeb.csproj", "{B4B04C6D-32A9-4BBB-BC7A-A34C57591CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{C3A97C52-E0EC-4EFE-9A1F-FCC3CFCC9A52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B4B04C6D-32A9-4BBB-BC7A-A34C57591CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B04C6D-32A9-4BBB-BC7A-A34C57591CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B04C6D-32A9-4BBB-BC7A-A34C57591CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A97C52-E0EC-4EFE-9A1F-FCC3CFCC9A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A97C52-E0EC-4EFE-9A1F-FCC3CFCC9A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A97C52-E0EC-4EFE-9A1F-FCC3CFCC9A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A97C52-E0EC-4EFE-9A1F-FCC3CFCC9A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
